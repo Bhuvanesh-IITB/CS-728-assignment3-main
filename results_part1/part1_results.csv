@@ -1,0 +1,4 @@
+Method,Recall@1,Recall@5
+BM25,0.1874,0.3516
+msmarco-MiniLM,0.365,0.5848
+UAE-large-v1,0.6138,0.865
